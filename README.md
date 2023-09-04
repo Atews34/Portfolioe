@@ -29,7 +29,7 @@
 ![image](https://github.com/Atews34/Portfolioe/assets/142510446/b6057f05-2ba1-40e1-9aad-a5e4e2766ff0)
 
 Проекты 🎓
-Проект 1: Тест кабинета учителя в приложении Skyeng https://www.notion.so/40201ff5dc2f4a8fbd21f6e3118462a1?pvs=4#9a8ae68b0c5b4e43b94988426141abfb
+Проект 1: Тест кабинета учителя в приложении Skyeng https://www.notion.so/40201ff5dc2f4a8fbd21f6e3118462a1?pvs=4#9a8ae68b0c5b4e43b94988426141abfb  : https://fdgjhjh.atlassian.net/wiki/spaces/~63ca9be7cd6a09abe71f41c6/blog/2023/04/09/393217/1+2
 
 Что нужно было сделать:
 
